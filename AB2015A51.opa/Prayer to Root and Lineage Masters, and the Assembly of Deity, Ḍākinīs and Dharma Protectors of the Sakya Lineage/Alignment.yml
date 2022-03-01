@@ -1,0 +1,22 @@
+segment_sources:
+  P15C907A4:
+    type: origin_type
+    relation: translation
+    language: en
+  P41DB05E4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  aa967b44f31344ce9cc89c9dc751bd19:
+    P15C907A4: c64eff12066a406db1729508b79dd70d
+    P41DB05E4: f172f03a6dc44ec587f363e32a99a8de
+  2084b099d5f34e30a914e63b612c7e50:
+    P15C907A4: 9cfda6f35959402e9456d9ce795a7935
+    P41DB05E4: a548ea64fd964660b765ae5f97bb8f9f
+  05bb963e51484cb5b48c79127042b54f:
+    P15C907A4: 73f82cdfb0af4966bc73c6f009449138
+    P41DB05E4: 57fd11a0f02246b0b8028547d0d2a934
+  b5191ee8885540fba5b3325e7eff42fa:
+    P15C907A4: aafc92557a75488790bacbfeb38328bb
+    P41DB05E4: 05d59e6477ca4941b324c9e30ab49080
